@@ -18,3 +18,4 @@ Wybór dogodnego terminu realizacji usługi oraz dokonanie rezerwacji.
 Zarządzanie zakupionymi usługami w dedykowanej zakładce "Zakupione usługi".
 Aplikacja "Serwis samochodowy" jest praktycznym narzędziem, które poprawia komfort i efektywność zarządzania serwisem pojazdów, oszczędzając czas i zapewniając wygodę użytkownikom.
 
+Aby uruchomić aplikację należy ją zainstalować na telefonie z systemem android z komponentu apk znajdującego pod lokalizacją: projektapk/app/build/outputs/apk/debug/app-debug.apk
