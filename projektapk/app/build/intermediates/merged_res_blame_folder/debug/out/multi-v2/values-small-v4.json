@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hdaf.aplikacja.app-mergeDebugResources-29:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\BIURO_BI.M.G\\.gradle\\caches\\transforms-3\\afb962f8ae8af4b5e9b9081b5ed76ba6\\transformed\\material-1.10.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

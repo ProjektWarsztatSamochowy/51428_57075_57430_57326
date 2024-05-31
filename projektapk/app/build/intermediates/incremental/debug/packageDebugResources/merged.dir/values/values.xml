@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">aplikacja</string>
+    <string name="book_service_button">Zarezerwuj usługę</string>
+    <string name="login_button">Zaloguj się</string>
+    <string name="password_hint">Hasło</string>
+    <string name="pick_date">Wybierz datę</string>
+    <string name="service_details_hint">Wpisz szczegóły serwisu</string>
+    <string name="username_hint">Nazwa użytkownika</string>
+    <string name="welcome_message">Witaj w naszym serwisie!</string>
+    <style name="Base.Theme.Aplikacja" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Aplikacja" parent="Base.Theme.Aplikacja"/>
+</resources>
