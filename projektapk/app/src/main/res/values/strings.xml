@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">aplikacja</string>
+    <string name="service_details_hint">Wpisz szczegóły serwisu</string>
+    <string name="pick_date">Wybierz datę</string>
+    <string name="book_service_button">Zarezerwuj usługę</string>
+    <string name="username_hint">Nazwa użytkownika</string>
+    <string name="password_hint">Hasło</string>
+    <string name="login_button">Zaloguj się</string>
+    <string name="welcome_message">Witaj w naszym serwisie!</string>
+
+</resources>
