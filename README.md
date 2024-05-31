@@ -1,5 +1,5 @@
 # Aplikacja Mobilna Serwis Samochodowy
-# 51428_57075_57430_57326
+# numery albumów: 51428_57075_57430_57326
 
 Aplikacja mobilna "Serwis samochodowy" została zaprojektowana jako kompleksowe narzędzie umożliwiające użytkownikom łatwe i wygodne zarządzanie usługami serwisowymi swoich pojazdów. 
 
